@@ -60,6 +60,30 @@
             "title": "JavaScript Demo: Intl.ListFormat",
             "type": "js"
         },
+        "intlLocale": {
+            "exampleCode": "./live-examples/js-examples/intl/intl-locale.html",
+            "fileName": "intl-locale.html",
+            "title": "JavaScript Demo: Intl.Locale",
+            "type": "js"
+        },
+        "intlLocalePrototypeMaximize": {
+            "exampleCode": "./live-examples/js-examples/intl/intl-locale-prototype-maximize.html",
+            "fileName": "intl-locale-prototype-maximize.html",
+            "title": "JavaScript Demo: Intl.Locale.prototype.maximize()",
+            "type": "js"
+        },
+        "intlLocalePrototypeMinimize": {
+            "exampleCode": "./live-examples/js-examples/intl/intl-locale-prototype-minimize.html",
+            "fileName": "intl-locale-prototype-minimize.html",
+            "title": "JavaScript Demo: Intl.Locale.prototype.minimize()",
+            "type": "js"
+        },
+        "intlLocalePrototypeToString": {
+            "exampleCode": "./live-examples/js-examples/intl/intl-locale-prototype-tostring.html",
+            "fileName": "intl-locale-prototype-tostring.html",
+            "title": "JavaScript Demo: Intl.Locale.prototype.toString()",
+            "type": "js"
+        },
         "intlNumberFormatPrototypeFormat": {
             "exampleCode": "./live-examples/js-examples/intl/intl-numberformat-prototype-format.html",
             "fileName": "intl-numberformat-prototype-format.html",
@@ -88,6 +112,30 @@
             "exampleCode": "./live-examples/js-examples/intl/intl-relativetimeformat.html",
             "fileName": "intl-relativetimeformat.html",
             "title": "JavaScript Demo: Intl.RelativeTimeFormat",
+            "type": "js"
+        },
+        "intlRelativeTimeFormatPrototypeFormat": {
+            "exampleCode": "./live-examples/js-examples/intl/intl-relativetimeformat-prototype-format.html",
+            "fileName": "intl-relativetimeformat-prototype-format.html",
+            "title": "JavaScript Demo: Intl.RelativeTimeFormat.prototype.format",
+            "type": "js"
+        },
+        "intlRelativeTimeFormatPrototypeFormatToParts": {
+            "exampleCode": "./live-examples/js-examples/intl/intl-relativetimeformat-prototype-formattoparts.html",
+            "fileName": "intl-relativetimeformat-prototype-formattoparts.html",
+            "title": "JavaScript Demo: Intl.RelativeTimeFormat.prototype.formatToParts",
+            "type": "js"
+        },
+        "intlRelativeTimeFormatPrototypeResolvedOptions": {
+            "exampleCode": "./live-examples/js-examples/intl/intl-relativetimeformat-prototype-resolvedoptions.html",
+            "fileName": "intl-relativetimeformat-prototype-resolvedoptions.html",
+            "title": "JavaScript Demo: Intl.RelativeTimeFormat.prototype.resolvedOptions",
+            "type": "js"
+        },
+        "intlRelativeTimeFormatSupportedLocalesOf": {
+            "exampleCode": "./live-examples/js-examples/intl/intl-relativetimeformat-supportedlocalesof.html",
+            "fileName": "intl-relativetimeformat-prototype-supportedlocalesof.html",
+            "title": "JavaScript Demo: Intl.RelativeTimeFormat.prototype.supportedLocalesOf",
             "type": "js"
         }
     }
